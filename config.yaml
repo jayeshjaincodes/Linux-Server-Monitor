@@ -1,0 +1,3 @@
+ram_threshold: 80
+cpu_threshold: 85
+disk_threshold: 90
