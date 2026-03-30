@@ -37,7 +37,7 @@ A lightweight, automated Linux system monitoring tool built using Bash. It track
 ### 1. Clone the repository
 
     git clone https://github.com/jayeshjaincodes/Linux-Server-Monitor.git
-    cd linux-server-monitor
+    cd Linux-Server-Monitor
 
 ### 2. Make script executable
 
